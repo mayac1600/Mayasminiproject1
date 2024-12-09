@@ -17,6 +17,7 @@ dev = [
     "my-project[test]",
     "my-project[doc]",
     "my-project[build]",
+    "jupyter"
 ]
 lint = [
     "mypy",
